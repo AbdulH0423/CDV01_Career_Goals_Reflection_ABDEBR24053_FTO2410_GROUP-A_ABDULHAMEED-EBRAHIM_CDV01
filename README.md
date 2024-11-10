@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:**  Abdul-Hameed Zainud-deen Ebrahim
+- **Date:** 6 November 2024
+- **Current Role/Position:** Technical Analyst
+- **Field of Interest:** Information Technology
 
 ### Part 1: Self-Assessment Reflection
 
